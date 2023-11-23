@@ -1,7 +1,7 @@
 ### Olá, Meu nome é Marcelo, conheça-me mais! 👋
 
 <a href="https://github.com/oMarceloMelo">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oMarceloMelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oMarceloMelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
 
 <p>Conheça algumas tecnologias que já trabalhei:</p>
 
