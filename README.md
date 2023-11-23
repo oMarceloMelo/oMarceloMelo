@@ -1,6 +1,7 @@
 ### Olá, Meu nome é Marcelo, conheça-me mais! 👋
 
-[![oMarceloMelo GitHub stats](https://github-readme-stats.vercel.app/api?username=oMarceloMelo)](https://github.com/oMarceloMelo/github-readme-stats)
+<a href="https://github.com/oMarceloMelo">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oMarceloMelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 <p>Conheça algumas tecnologias que já trabalhei:</p>
 
